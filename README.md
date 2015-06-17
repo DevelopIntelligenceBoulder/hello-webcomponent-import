@@ -5,7 +5,7 @@ A simple example of Hello World written with Web Components utilizing [HTML impo
   Before looking at the HTML imports take a look at how to achieve this in [Plain HTML and JavaScript](https://github.com/DevelopIntelligenceBoulder/hello-plain-old-javascript) and how to achieve this with the [HTML5 Web Component template element](https://github.com/DevelopIntelligenceBoulder/hello-webcomponent-template).
   
 ## Browser Support
-  Check out [Can I Use](http://caniuse.com/#feat=imports) to see if/when [IE](https://status.modern.ie/htmlimports), [Firefox](https://developer.mozilla.org/en-US/docs/Web/Web_Components/HTML_Imports) and Safari will adopt the use of Web Component HTML imports.
+  Check out [Can I Use](http://caniuse.com/#feat=imports) to see if/when [IE](https://status.modern.ie/htmlimports), [Firefox](https://developer.mozilla.org/en-US/docs/Web/Web_Components/HTML_Imports) and Safari will adopt the use of Web Component HTML imports. Web components are fully supported in Chrome and Opera.
   
 ## What is this?
   This example shows how to utilize HTML imports from the Web Component Specification. The HTML imports allow for separating HTML templates into separate files.
