@@ -1,8 +1,8 @@
 # hello-webcomponent-import
-A simple example of Hello World written with HTML5 Web Components utilizing the [template DOM element](http://www.w3.org/TR/html51/semantics.html#the-template-element) and [document imports](http://w3c.github.io/webcomponents/spec/imports/).
+A simple example of Hello World written with Web Components utilizing [HTML imports](http://w3c.github.io/webcomponents/spec/imports/).
 
 ## Do this first
-  Before looking at the HTML5 Web Component `<template>` element take a look at how to achieve this in [Plain HTML and JavaScript](https://github.com/DevelopIntelligenceBoulder/hello-plain-old-javascript) and how to achieve this with the [HTML5 Web Component template element](https://github.com/DevelopIntelligenceBoulder/hello-webcomponent-template).
+  Before looking at the HTML imports take a look at how to achieve this in [Plain HTML and JavaScript](https://github.com/DevelopIntelligenceBoulder/hello-plain-old-javascript) and how to achieve this with the [HTML5 Web Component template element](https://github.com/DevelopIntelligenceBoulder/hello-webcomponent-template).
   
 ## Browser Support
   Check out [Can I Use](http://caniuse.com/#feat=imports) to see if/when [IE](https://status.modern.ie/htmlimports), [Firefox](https://developer.mozilla.org/en-US/docs/Web/Web_Components/HTML_Imports) and Safari will adopt the use of Web Component HTML imports.
